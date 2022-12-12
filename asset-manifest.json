@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/frontendmentor-multistepform/static/css/main.313d29d2.css",
+    "main.js": "/frontendmentor-multistepform/static/js/main.c61160a7.js",
+    "static/media/bg-sidebar-desktop.svg": "/frontendmentor-multistepform/static/media/bg-sidebar-desktop.6918153f38678372ceb14496fda9664c.svg",
+    "static/media/bg-sidebar-mobile.svg": "/frontendmentor-multistepform/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a9f96479b9c1a.svg",
+    "static/media/icon-advanced.svg": "/frontendmentor-multistepform/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
+    "static/media/icon-thank-you.svg": "/frontendmentor-multistepform/static/media/icon-thank-you.ee753f231cc5a5789b8eb922a96472c0.svg",
+    "index.html": "/frontendmentor-multistepform/index.html",
+    "static/media/icon-pro.svg": "/frontendmentor-multistepform/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
+    "static/media/icon-arcade.svg": "/frontendmentor-multistepform/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
+    "main.313d29d2.css.map": "/frontendmentor-multistepform/static/css/main.313d29d2.css.map",
+    "main.c61160a7.js.map": "/frontendmentor-multistepform/static/js/main.c61160a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.313d29d2.css",
+    "static/js/main.c61160a7.js"
+  ]
+}
